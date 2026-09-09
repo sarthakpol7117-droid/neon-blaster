@@ -1,0 +1,5 @@
+# runtime state - the game recreates this automatically
+highscore.json
+
+__pycache__/
+*.pyc
